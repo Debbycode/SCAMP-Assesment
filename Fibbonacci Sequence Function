@@ -1,3 +1,5 @@
+# This is a SCAMP Technical Assesment to be submitted for the She Code Africa Application
+
 # Python Function for Fibbonacci Sequence
 
 def Fibbonacci_sequence(Number):
